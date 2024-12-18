@@ -1,0 +1,569 @@
+[INFO ] 2024-12-16 17:50:37.168 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-16 17:50:37.195 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-16 17:50:38.130 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-16 17:50:38.315 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-16 17:50:38.493 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-16 17:50:39.565 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-16 17:50:40.607 [main] EcommerceTesting - Clicked on search button
+[INFO ] 2024-12-16 17:50:46.862 [main] EcommerceTesting - Clicked image
+[INFO ] 2024-12-16 17:50:51.158 [main] EcommerceTesting - size L is entered
+[INFO ] 2024-12-16 17:50:53.347 [main] EcommerceTesting - Quantity 2 is entered
+[INFO ] 2024-12-16 17:50:58.552 [main] EcommerceTesting - Clicked on Add to cart
+[INFO ] 2024-12-16 17:51:04.511 [main] EcommerceTesting - Clicked on proceed to checkout on product page
+[INFO ] 2024-12-16 17:51:10.430 [main] EcommerceTesting - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-12-16 17:51:16.059 [main] EcommerceTesting - Clicked on proceed to checkout on order address page
+[INFO ] 2024-12-16 17:51:21.224 [main] EcommerceTesting - Clicked on selectTermsOfServices checkbox on Shipping page
+[INFO ] 2024-12-16 17:51:26.755 [main] EcommerceTesting - Clicked on proceed to checkout on order Shipping page
+[INFO ] 2024-12-16 17:51:32.413 [main] EcommerceTesting - Clicked on pay by cheque order payment page
+[INFO ] 2024-12-16 17:51:43.741 [main] EcommerceTesting - Clicked on confirmed order
+[INFO ] 2024-12-16 17:51:43.769 [main] EcommerceTesting - VerifyBuyProduct failed 
+[INFO ] 2024-12-16 17:51:44.537 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-16 17:54:36.570 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-16 17:54:36.600 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-16 17:54:37.567 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-16 17:54:37.746 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-16 17:54:37.877 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-16 17:54:38.761 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-16 17:54:39.407 [main] EcommerceTesting - Clicked on search button
+[INFO ] 2024-12-16 17:54:45.617 [main] EcommerceTesting - Clicked image
+[INFO ] 2024-12-16 17:54:49.848 [main] EcommerceTesting - size L is entered
+[INFO ] 2024-12-16 17:54:52.010 [main] EcommerceTesting - Quantity 2 is entered
+[INFO ] 2024-12-16 17:54:57.128 [main] EcommerceTesting - Clicked on Add to cart
+[INFO ] 2024-12-16 17:55:03.134 [main] EcommerceTesting - Clicked on proceed to checkout on product page
+[INFO ] 2024-12-16 17:55:09.109 [main] EcommerceTesting - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-12-16 17:55:14.585 [main] EcommerceTesting - Clicked on proceed to checkout on order address page
+[INFO ] 2024-12-16 17:55:19.703 [main] EcommerceTesting - Clicked on selectTermsOfServices checkbox on Shipping page
+[INFO ] 2024-12-16 17:55:25.623 [main] EcommerceTesting - Clicked on proceed to checkout on order Shipping page
+[INFO ] 2024-12-16 17:55:31.243 [main] EcommerceTesting - Clicked on pay by cheque order payment page
+[INFO ] 2024-12-16 17:55:42.593 [main] EcommerceTesting - Clicked on confirmed order
+[INFO ] 2024-12-16 17:55:42.666 [main] EcommerceTesting - VerifyBuyProduct failed 
+[INFO ] 2024-12-16 17:55:43.470 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-16 18:00:06.706 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-16 18:00:06.732 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-16 18:00:07.745 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-16 18:00:07.932 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-16 18:00:08.065 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-16 18:00:09.069 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-16 18:00:10.396 [main] EcommerceTesting - Clicked on search button
+[INFO ] 2024-12-16 18:00:16.539 [main] EcommerceTesting - Clicked image
+[INFO ] 2024-12-16 18:00:20.811 [main] EcommerceTesting - size L is entered
+[INFO ] 2024-12-16 18:00:22.945 [main] EcommerceTesting - Quantity 2 is entered
+[INFO ] 2024-12-16 18:00:28.153 [main] EcommerceTesting - Clicked on Add to cart
+[INFO ] 2024-12-16 18:00:34.201 [main] EcommerceTesting - Clicked on proceed to checkout on product page
+[INFO ] 2024-12-16 18:00:40.115 [main] EcommerceTesting - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-12-16 18:00:45.591 [main] EcommerceTesting - Clicked on proceed to checkout on order address page
+[INFO ] 2024-12-16 18:00:50.763 [main] EcommerceTesting - Clicked on selectTermsOfServices checkbox on Shipping page
+[INFO ] 2024-12-16 18:00:56.305 [main] EcommerceTesting - Clicked on proceed to checkout on order Shipping page
+[INFO ] 2024-12-16 18:01:01.928 [main] EcommerceTesting - Clicked on pay by cheque order payment page
+[INFO ] 2024-12-16 18:01:13.132 [main] EcommerceTesting - Clicked on confirmed order
+[INFO ] 2024-12-16 18:01:13.199 [main] EcommerceTesting - VerifyBuyProduct failed 
+[INFO ] 2024-12-16 18:01:13.927 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-16 20:47:29.438 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-16 20:47:29.462 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-16 20:47:30.558 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-16 20:47:30.752 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-16 20:47:30.907 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-16 20:47:31.900 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-16 20:47:33.260 [main] EcommerceTesting - Clicked on search button
+[INFO ] 2024-12-16 20:47:40.121 [main] EcommerceTesting - Clicked image
+[INFO ] 2024-12-16 20:47:44.359 [main] EcommerceTesting - size L is entered
+[INFO ] 2024-12-16 20:47:46.562 [main] EcommerceTesting - Quantity 2 is entered
+[INFO ] 2024-12-16 20:47:51.747 [main] EcommerceTesting - Clicked on Add to cart
+[INFO ] 2024-12-16 20:47:57.854 [main] EcommerceTesting - Clicked on proceed to checkout on product page
+[INFO ] 2024-12-16 20:48:03.820 [main] EcommerceTesting - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-12-16 20:48:09.909 [main] EcommerceTesting - Clicked on proceed to checkout on order address page
+[INFO ] 2024-12-16 20:48:15.074 [main] EcommerceTesting - Clicked on selectTermsOfServices checkbox on Shipping page
+[INFO ] 2024-12-16 20:48:21.054 [main] EcommerceTesting - Clicked on proceed to checkout on order Shipping page
+[INFO ] 2024-12-16 20:48:26.903 [main] EcommerceTesting - Clicked on pay by cheque order payment page
+[INFO ] 2024-12-16 20:48:38.693 [main] EcommerceTesting - Clicked on confirmed order
+[INFO ] 2024-12-16 20:48:40.181 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-16 20:48:40.987 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-16 20:53:22.431 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-16 20:53:22.458 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-16 20:53:23.490 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-16 20:53:23.671 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-16 20:53:23.824 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-16 20:53:24.970 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-16 20:53:25.698 [main] EcommerceTesting - Clicked on search button
+[INFO ] 2024-12-16 20:53:31.961 [main] EcommerceTesting - Clicked image
+[INFO ] 2024-12-16 20:53:36.164 [main] EcommerceTesting - size L is entered
+[INFO ] 2024-12-16 20:53:38.355 [main] EcommerceTesting - Quantity 2 is entered
+[INFO ] 2024-12-16 20:53:43.534 [main] EcommerceTesting - Clicked on Add to cart
+[INFO ] 2024-12-16 20:53:49.758 [main] EcommerceTesting - Clicked on proceed to checkout on product page
+[INFO ] 2024-12-16 20:53:55.730 [main] EcommerceTesting - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-12-16 20:54:01.938 [main] EcommerceTesting - Clicked on proceed to checkout on order address page
+[INFO ] 2024-12-16 20:54:07.102 [main] EcommerceTesting - Clicked on selectTermsOfServices checkbox on Shipping page
+[INFO ] 2024-12-16 20:54:12.730 [main] EcommerceTesting - Clicked on proceed to checkout on order Shipping page
+[INFO ] 2024-12-16 20:54:18.443 [main] EcommerceTesting - Clicked on pay by cheque order payment page
+[INFO ] 2024-12-16 20:54:29.984 [main] EcommerceTesting - Clicked on confirmed order
+[INFO ] 2024-12-16 20:54:30.039 [main] EcommerceTesting - VerifyBuyProduct failed 
+[INFO ] 2024-12-16 20:54:30.818 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-16 20:55:46.971 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-16 20:55:46.996 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-16 20:55:48.016 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-16 20:55:48.191 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-16 20:55:48.316 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-16 20:55:49.665 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-16 20:55:50.965 [main] EcommerceTesting - Clicked on search button
+[INFO ] 2024-12-16 20:55:57.542 [main] EcommerceTesting - Clicked image
+[INFO ] 2024-12-16 20:56:01.770 [main] EcommerceTesting - size L is entered
+[INFO ] 2024-12-16 20:56:03.978 [main] EcommerceTesting - Quantity 2 is entered
+[INFO ] 2024-12-16 20:56:09.149 [main] EcommerceTesting - Clicked on Add to cart
+[INFO ] 2024-12-16 20:56:15.176 [main] EcommerceTesting - Clicked on proceed to checkout on product page
+[INFO ] 2024-12-16 20:56:21.185 [main] EcommerceTesting - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-12-16 20:56:27.326 [main] EcommerceTesting - Clicked on proceed to checkout on order address page
+[INFO ] 2024-12-16 20:56:32.475 [main] EcommerceTesting - Clicked on selectTermsOfServices checkbox on Shipping page
+[INFO ] 2024-12-16 20:56:38.526 [main] EcommerceTesting - Clicked on proceed to checkout on order Shipping page
+[INFO ] 2024-12-16 20:56:44.301 [main] EcommerceTesting - Clicked on pay by cheque order payment page
+[INFO ] 2024-12-16 20:56:55.929 [main] EcommerceTesting - Clicked on confirmed order
+[INFO ] 2024-12-16 20:56:55.997 [main] EcommerceTesting - VerifyBuyProduct failed 
+[INFO ] 2024-12-16 20:56:56.833 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-16 21:00:33.733 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-16 21:00:33.761 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-16 21:00:34.954 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-16 21:00:35.124 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-16 21:00:35.254 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-16 21:00:36.622 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-16 21:00:37.305 [main] EcommerceTesting - Clicked on search button
+[INFO ] 2024-12-16 21:00:43.741 [main] EcommerceTesting - Clicked image
+[INFO ] 2024-12-16 21:00:47.963 [main] EcommerceTesting - size L is entered
+[INFO ] 2024-12-16 21:00:50.156 [main] EcommerceTesting - Quantity 2 is entered
+[INFO ] 2024-12-16 21:00:55.311 [main] EcommerceTesting - Clicked on Add to cart
+[INFO ] 2024-12-16 21:01:01.883 [main] EcommerceTesting - Clicked on proceed to checkout on product page
+[INFO ] 2024-12-16 21:01:07.866 [main] EcommerceTesting - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-12-16 21:01:13.495 [main] EcommerceTesting - Clicked on proceed to checkout on order address page
+[INFO ] 2024-12-16 21:01:18.684 [main] EcommerceTesting - Clicked on selectTermsOfServices checkbox on Shipping page
+[INFO ] 2024-12-16 21:01:25.643 [main] EcommerceTesting - Clicked on proceed to checkout on order Shipping page
+[INFO ] 2024-12-16 21:01:31.385 [main] EcommerceTesting - Clicked on pay by cheque order payment page
+[INFO ] 2024-12-16 21:01:42.941 [main] EcommerceTesting - Clicked on confirmed order
+[INFO ] 2024-12-16 21:01:43.013 [main] EcommerceTesting - VerifyBuyProduct failed 
+[INFO ] 2024-12-16 21:01:43.745 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-16 21:04:23.589 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-16 21:04:23.616 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-16 21:04:25.148 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-16 21:04:25.337 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-16 21:04:25.478 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-16 21:04:26.505 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-16 21:04:27.629 [main] EcommerceTesting - Clicked on search button
+[INFO ] 2024-12-16 21:04:33.872 [main] EcommerceTesting - Clicked image
+[INFO ] 2024-12-16 21:04:38.141 [main] EcommerceTesting - size L is entered
+[INFO ] 2024-12-16 21:04:40.291 [main] EcommerceTesting - Quantity 2 is entered
+[INFO ] 2024-12-16 21:04:45.470 [main] EcommerceTesting - Clicked on Add to cart
+[INFO ] 2024-12-16 21:04:51.583 [main] EcommerceTesting - Clicked on proceed to checkout on product page
+[INFO ] 2024-12-16 21:04:58.006 [main] EcommerceTesting - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-12-16 21:05:04.095 [main] EcommerceTesting - Clicked on proceed to checkout on order address page
+[INFO ] 2024-12-16 21:05:09.238 [main] EcommerceTesting - Clicked on selectTermsOfServices checkbox on Shipping page
+[INFO ] 2024-12-16 21:05:15.230 [main] EcommerceTesting - Clicked on proceed to checkout on order Shipping page
+[INFO ] 2024-12-16 21:05:21.051 [main] EcommerceTesting - Clicked on pay by cheque order payment page
+[INFO ] 2024-12-16 21:05:31.856 [main] EcommerceTesting - Clicked on confirmed order
+[INFO ] 2024-12-16 21:05:33.233 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-16 21:05:33.763 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-16 21:09:55.660 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-16 21:09:55.685 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-16 21:09:56.829 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-16 21:09:56.998 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-16 21:09:57.138 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-16 21:09:58.132 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-16 21:09:59.307 [main] EcommerceTesting - Clicked on search button
+[INFO ] 2024-12-16 21:10:06.549 [main] EcommerceTesting - Clicked image
+[INFO ] 2024-12-16 21:10:10.812 [main] EcommerceTesting - size L is entered
+[INFO ] 2024-12-16 21:10:13.000 [main] EcommerceTesting - Quantity 2 is entered
+[INFO ] 2024-12-16 21:10:18.196 [main] EcommerceTesting - Clicked on Add to cart
+[INFO ] 2024-12-16 21:10:24.285 [main] EcommerceTesting - Clicked on proceed to checkout on product page
+[INFO ] 2024-12-16 21:10:30.343 [main] EcommerceTesting - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-12-16 21:10:36.418 [main] EcommerceTesting - Clicked on proceed to checkout on order address page
+[INFO ] 2024-12-16 21:10:41.612 [main] EcommerceTesting - Clicked on selectTermsOfServices checkbox on Shipping page
+[INFO ] 2024-12-16 21:10:47.505 [main] EcommerceTesting - Clicked on proceed to checkout on order Shipping page
+[INFO ] 2024-12-16 21:10:53.178 [main] EcommerceTesting - Clicked on pay by cheque order payment page
+[INFO ] 2024-12-16 21:11:04.710 [main] EcommerceTesting - Clicked on confirmed order
+[INFO ] 2024-12-16 21:11:06.164 [main] EcommerceTesting - User has logged out 
+[INFO ] 2024-12-16 21:11:06.187 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-16 21:11:06.706 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-16 21:21:46.702 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-16 21:21:46.728 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-16 21:21:48.088 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-16 21:21:48.241 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-16 21:21:48.384 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-16 21:21:49.446 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-16 21:21:51.245 [main] EcommerceTesting - Clicked on search button
+[INFO ] 2024-12-16 21:21:57.368 [main] EcommerceTesting - Clicked image
+[INFO ] 2024-12-16 21:22:01.573 [main] EcommerceTesting - size L is entered
+[INFO ] 2024-12-16 21:22:03.776 [main] EcommerceTesting - Quantity 2 is entered
+[INFO ] 2024-12-16 21:22:08.974 [main] EcommerceTesting - Clicked on Add to cart
+[INFO ] 2024-12-16 21:22:15.186 [main] EcommerceTesting - Clicked on proceed to checkout on product page
+[INFO ] 2024-12-16 21:22:21.434 [main] EcommerceTesting - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-12-16 21:22:27.630 [main] EcommerceTesting - Clicked on proceed to checkout on order address page
+[INFO ] 2024-12-16 21:22:32.756 [main] EcommerceTesting - Clicked on selectTermsOfServices checkbox on Shipping page
+[INFO ] 2024-12-16 21:22:38.941 [main] EcommerceTesting - Clicked on proceed to checkout on order Shipping page
+[INFO ] 2024-12-16 21:22:44.633 [main] EcommerceTesting - Clicked on pay by cheque order payment page
+[INFO ] 2024-12-16 21:22:55.356 [main] EcommerceTesting - Clicked on confirmed order
+[INFO ] 2024-12-16 21:22:55.917 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-16 21:24:47.555 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-16 21:24:47.578 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-16 21:24:48.562 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-16 21:24:48.732 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-16 21:24:48.867 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-16 21:24:49.816 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-16 21:24:50.924 [main] EcommerceTesting - Clicked on search button
+[INFO ] 2024-12-16 21:24:57.102 [main] EcommerceTesting - Clicked image
+[INFO ] 2024-12-16 21:25:01.322 [main] EcommerceTesting - size L is entered
+[INFO ] 2024-12-16 21:25:03.510 [main] EcommerceTesting - Quantity 2 is entered
+[INFO ] 2024-12-16 21:25:08.709 [main] EcommerceTesting - Clicked on Add to cart
+[INFO ] 2024-12-16 21:25:14.742 [main] EcommerceTesting - Clicked on proceed to checkout on product page
+[INFO ] 2024-12-16 21:25:20.823 [main] EcommerceTesting - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-12-16 21:25:26.375 [main] EcommerceTesting - Clicked on proceed to checkout on order address page
+[INFO ] 2024-12-16 21:25:31.482 [main] EcommerceTesting - Clicked on selectTermsOfServices checkbox on Shipping page
+[INFO ] 2024-12-16 21:25:36.999 [main] EcommerceTesting - Clicked on proceed to checkout on order Shipping page
+[INFO ] 2024-12-16 21:25:42.608 [main] EcommerceTesting - Clicked on pay by cheque order payment page
+[INFO ] 2024-12-16 21:25:52.894 [main] EcommerceTesting - Clicked on confirmed order
+[INFO ] 2024-12-16 21:25:54.093 [main] EcommerceTesting - User has logged out 
+[INFO ] 2024-12-16 21:25:54.127 [main] EcommerceTesting - Page title is as expected
+[INFO ] 2024-12-16 21:25:54.127 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-16 21:25:54.911 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-16 21:35:57.493 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-16 21:35:59.595 [main] EcommerceTesting - Verify registered user is able to login
+[INFO ] 2024-12-16 21:36:00.741 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-16 21:36:00.919 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-16 21:36:01.044 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-16 21:36:02.176 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-16 21:36:02.222 [main] EcommerceTesting - Verify Login passed
+[INFO ] 2024-12-16 21:36:03.871 [main] EcommerceTesting - Verify registered user is able to login
+[INFO ] 2024-12-16 21:36:04.723 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-16 21:36:04.876 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-16 21:36:05.037 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-16 21:36:06.096 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-16 21:36:06.130 [main] EcommerceTesting - Verify Login passed
+[INFO ] 2024-12-16 21:36:08.296 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-16 21:36:16.288 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-16 21:36:16.290 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-16 21:36:17.561 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-16 21:36:17.744 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-16 21:36:17.869 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-16 21:36:18.800 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-16 21:36:19.555 [main] EcommerceTesting - Clicked on search button
+[INFO ] 2024-12-16 21:36:25.726 [main] EcommerceTesting - Clicked image
+[INFO ] 2024-12-16 21:36:29.963 [main] EcommerceTesting - size L is entered
+[INFO ] 2024-12-16 21:36:32.133 [main] EcommerceTesting - Quantity 2 is entered
+[INFO ] 2024-12-16 21:36:37.300 [main] EcommerceTesting - Clicked on Add to cart
+[INFO ] 2024-12-16 21:36:43.320 [main] EcommerceTesting - Clicked on proceed to checkout on product page
+[INFO ] 2024-12-16 21:36:49.247 [main] EcommerceTesting - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-12-16 21:36:54.789 [main] EcommerceTesting - Clicked on proceed to checkout on order address page
+[INFO ] 2024-12-16 21:36:59.940 [main] EcommerceTesting - Clicked on selectTermsOfServices checkbox on Shipping page
+[INFO ] 2024-12-16 21:37:05.494 [main] EcommerceTesting - Clicked on proceed to checkout on order Shipping page
+[INFO ] 2024-12-16 21:37:11.130 [main] EcommerceTesting - Clicked on pay by cheque order payment page
+[INFO ] 2024-12-16 21:37:22.581 [main] EcommerceTesting - Clicked on confirmed order
+[INFO ] 2024-12-16 21:37:23.883 [main] EcommerceTesting - User has logged out 
+[INFO ] 2024-12-16 21:37:23.926 [main] EcommerceTesting - Page title is as expected
+[INFO ] 2024-12-16 21:37:23.926 [main] EcommerceTesting - 
+***************TestCase Buy Product stopped*****************
+[INFO ] 2024-12-16 21:37:23.931 [main] EcommerceTesting - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-12-16 21:37:24.785 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-16 21:37:24.912 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-16 21:37:25.014 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-16 21:37:25.808 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-16 21:37:31.719 [main] EcommerceTesting - Search Product testcase - Passed
+[INFO ] 2024-12-16 21:37:32.770 [main] EcommerceTesting - ***************TestCase Search Product ends*****************
+[INFO ] 2024-12-16 21:37:33.346 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-17 00:14:23.838 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-17 00:14:23.863 [main] EcommerceTesting - Verify registered user is able to login
+[INFO ] 2024-12-17 00:14:25.611 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 00:14:25.793 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 00:14:25.929 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 00:14:27.525 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 00:14:27.573 [main] EcommerceTesting - Verify Login passed
+[INFO ] 2024-12-17 00:14:28.318 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-17 00:15:54.379 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-17 00:15:54.416 [main] EcommerceTesting - Verify registered user is able to login
+[INFO ] 2024-12-17 00:16:05.010 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 00:16:05.233 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 00:16:05.362 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 00:16:07.200 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 00:16:07.252 [main] EcommerceTesting - Verify Login passed
+[INFO ] 2024-12-17 00:16:08.026 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-17 00:18:13.159 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-17 00:18:13.183 [main] EcommerceTesting - Verify registered user is able to login
+[INFO ] 2024-12-17 00:18:15.361 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 00:18:15.537 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 00:18:15.691 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 00:18:17.500 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 00:18:17.550 [main] EcommerceTesting - Verify Login passed
+[INFO ] 2024-12-17 00:18:18.205 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-17 00:21:23.915 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-17 00:21:25.648 [main] EcommerceTesting - Verify registered user is able to login
+[INFO ] 2024-12-17 00:21:27.884 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 00:21:28.032 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 00:21:28.192 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 00:21:30.467 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 00:21:30.508 [main] EcommerceTesting - Verify Login passed
+[INFO ] 2024-12-17 00:21:32.772 [main] EcommerceTesting - Verify registered user is able to login
+[INFO ] 2024-12-17 00:21:34.070 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 00:21:34.229 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 00:21:34.356 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 00:21:35.836 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 00:21:35.867 [main] EcommerceTesting - Verify Login passed
+[INFO ] 2024-12-17 00:21:38.143 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-17 00:21:54.701 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-17 00:21:54.703 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-17 00:21:56.910 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 00:21:57.122 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 00:21:57.264 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 00:21:59.106 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 00:22:01.260 [main] EcommerceTesting - Clicked on search button
+[INFO ] 2024-12-17 00:22:08.720 [main] EcommerceTesting - Clicked image
+[INFO ] 2024-12-17 00:22:12.978 [main] EcommerceTesting - size L is entered
+[INFO ] 2024-12-17 00:22:15.162 [main] EcommerceTesting - Quantity 2 is entered
+[INFO ] 2024-12-17 00:22:20.338 [main] EcommerceTesting - Clicked on Add to cart
+[INFO ] 2024-12-17 00:22:26.919 [main] EcommerceTesting - Clicked on proceed to checkout on product page
+[INFO ] 2024-12-17 00:22:33.541 [main] EcommerceTesting - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-12-17 00:22:39.763 [main] EcommerceTesting - Clicked on proceed to checkout on order address page
+[INFO ] 2024-12-17 00:22:44.913 [main] EcommerceTesting - Clicked on selectTermsOfServices checkbox on Shipping page
+[INFO ] 2024-12-17 00:22:51.557 [main] EcommerceTesting - Clicked on proceed to checkout on order Shipping page
+[INFO ] 2024-12-17 00:22:57.405 [main] EcommerceTesting - Clicked on pay by cheque order payment page
+[INFO ] 2024-12-17 00:23:09.301 [main] EcommerceTesting - Clicked on confirmed order
+[INFO ] 2024-12-17 00:23:11.688 [main] EcommerceTesting - User has logged out 
+[INFO ] 2024-12-17 00:23:11.721 [main] EcommerceTesting - Page title is as expected
+[INFO ] 2024-12-17 00:23:11.721 [main] EcommerceTesting - 
+***************TestCase Buy Product stopped*****************
+[INFO ] 2024-12-17 00:23:11.724 [main] EcommerceTesting - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-12-17 00:23:12.961 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 00:23:13.076 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 00:23:13.171 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 00:23:14.444 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 00:23:20.862 [main] EcommerceTesting - Search Product testcase - Passed
+[INFO ] 2024-12-17 00:23:22.529 [main] EcommerceTesting - ***************TestCase Search Product ends*****************
+[INFO ] 2024-12-17 00:23:23.071 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-17 01:29:18.608 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-17 01:29:22.203 [main] EcommerceTesting - Verify registered user is able to login
+[INFO ] 2024-12-17 01:29:23.977 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 01:29:24.210 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 01:29:24.338 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 01:29:26.720 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 01:29:26.775 [main] EcommerceTesting - Verify Login passed
+[INFO ] 2024-12-17 01:29:29.020 [main] EcommerceTesting - Verify registered user is able to login
+[INFO ] 2024-12-17 01:29:30.296 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 01:29:30.443 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 01:29:30.549 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 01:29:31.582 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 01:29:31.611 [main] EcommerceTesting - Verify Login passed
+[INFO ] 2024-12-17 01:29:34.328 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-17 01:29:47.887 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-17 01:29:47.889 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-17 01:29:49.707 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 01:29:49.857 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 01:29:50.010 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 01:29:51.791 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 01:29:53.552 [main] EcommerceTesting - Clicked on search button
+[INFO ] 2024-12-17 01:30:00.666 [main] EcommerceTesting - Clicked image
+[INFO ] 2024-12-17 01:30:04.955 [main] EcommerceTesting - size L is entered
+[INFO ] 2024-12-17 01:30:07.122 [main] EcommerceTesting - Quantity 2 is entered
+[INFO ] 2024-12-17 01:30:12.301 [main] EcommerceTesting - Clicked on Add to cart
+[INFO ] 2024-12-17 01:30:18.869 [main] EcommerceTesting - Clicked on proceed to checkout on product page
+[INFO ] 2024-12-17 01:30:25.491 [main] EcommerceTesting - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-12-17 01:30:31.784 [main] EcommerceTesting - Clicked on proceed to checkout on order address page
+[INFO ] 2024-12-17 01:30:36.981 [main] EcommerceTesting - Clicked on selectTermsOfServices checkbox on Shipping page
+[INFO ] 2024-12-17 01:30:43.723 [main] EcommerceTesting - Clicked on proceed to checkout on order Shipping page
+[INFO ] 2024-12-17 01:30:49.539 [main] EcommerceTesting - Clicked on pay by cheque order payment page
+[INFO ] 2024-12-17 01:31:01.421 [main] EcommerceTesting - Clicked on confirmed order
+[INFO ] 2024-12-17 01:31:03.537 [main] EcommerceTesting - User has logged out 
+[INFO ] 2024-12-17 01:31:03.564 [main] EcommerceTesting - Page title is as expected
+[INFO ] 2024-12-17 01:31:03.565 [main] EcommerceTesting - 
+***************TestCase Buy Product stopped*****************
+[INFO ] 2024-12-17 01:31:03.570 [main] EcommerceTesting - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-12-17 01:31:04.856 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 01:31:04.970 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 01:31:05.070 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 01:31:06.164 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 01:31:12.109 [main] EcommerceTesting - Search Product testcase - Passed
+[INFO ] 2024-12-17 01:31:13.300 [main] EcommerceTesting - ***************TestCase Search Product ends*****************
+[INFO ] 2024-12-17 01:31:14.194 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-17 01:40:22.615 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-17 01:40:22.619 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-17 01:40:22.708 [main] EcommerceTesting - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-12-17 01:45:10.085 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-17 01:45:11.520 [main] EcommerceTesting - Verify registered user is able to login
+[INFO ] 2024-12-17 01:45:12.957 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 01:45:13.097 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 01:45:13.226 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 01:45:14.180 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 01:45:14.218 [main] EcommerceTesting - Verify Login passed
+[INFO ] 2024-12-17 01:45:15.333 [main] EcommerceTesting - Verify registered user is able to login
+[INFO ] 2024-12-17 01:45:16.060 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 01:45:16.190 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 01:45:16.300 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 01:45:17.030 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 01:45:17.072 [main] EcommerceTesting - Verify Login passed
+[INFO ] 2024-12-17 01:45:19.264 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-17 01:45:27.180 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-17 01:45:27.182 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-17 01:45:28.377 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 01:45:28.542 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 01:45:28.671 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 01:45:29.568 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 01:45:30.151 [main] EcommerceTesting - Clicked on search button
+[INFO ] 2024-12-17 01:45:36.262 [main] EcommerceTesting - Clicked image
+[INFO ] 2024-12-17 01:45:40.637 [main] EcommerceTesting - size L is entered
+[INFO ] 2024-12-17 01:45:42.781 [main] EcommerceTesting - Quantity 2 is entered
+[INFO ] 2024-12-17 01:45:47.945 [main] EcommerceTesting - Clicked on Add to cart
+[INFO ] 2024-12-17 01:45:54.331 [main] EcommerceTesting - Clicked on proceed to checkout on product page
+[INFO ] 2024-12-17 01:46:00.157 [main] EcommerceTesting - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-12-17 01:46:05.677 [main] EcommerceTesting - Clicked on proceed to checkout on order address page
+[INFO ] 2024-12-17 01:46:10.866 [main] EcommerceTesting - Clicked on selectTermsOfServices checkbox on Shipping page
+[INFO ] 2024-12-17 01:46:16.883 [main] EcommerceTesting - Clicked on proceed to checkout on order Shipping page
+[INFO ] 2024-12-17 01:46:22.696 [main] EcommerceTesting - Clicked on pay by cheque order payment page
+[INFO ] 2024-12-17 01:46:32.192 [main] EcommerceTesting - Clicked on confirmed order
+[INFO ] 2024-12-17 01:46:33.480 [main] EcommerceTesting - User has logged out 
+[INFO ] 2024-12-17 01:46:33.520 [main] EcommerceTesting - Page title is as expected
+[INFO ] 2024-12-17 01:46:33.520 [main] EcommerceTesting - 
+***************TestCase Buy Product stopped*****************
+[INFO ] 2024-12-17 01:46:33.525 [main] EcommerceTesting - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-12-17 01:46:34.264 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 01:46:34.389 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 01:46:34.490 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 01:46:35.517 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 01:46:41.182 [main] EcommerceTesting - Search Product testcase - Passed
+[INFO ] 2024-12-17 01:46:42.291 [main] EcommerceTesting - ***************TestCase Search Product ends*****************
+[INFO ] 2024-12-17 01:46:42.851 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-17 21:48:44.968 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-17 21:48:48.033 [main] EcommerceTesting - Verify registered user is able to login
+[INFO ] 2024-12-17 21:48:49.457 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 21:48:49.611 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 21:48:49.730 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 21:48:51.858 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 21:48:51.894 [main] EcommerceTesting - Verify Login passed
+[INFO ] 2024-12-17 21:48:53.996 [main] EcommerceTesting - Verify registered user is able to login
+[INFO ] 2024-12-17 21:48:54.844 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 21:48:54.927 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 21:48:55.004 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 21:48:55.957 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 21:48:55.984 [main] EcommerceTesting - Verify Login passed
+[INFO ] 2024-12-17 21:48:58.523 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-17 21:49:21.899 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-17 21:49:21.905 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-17 21:49:23.314 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 21:49:23.532 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 21:49:23.661 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 21:49:26.542 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 21:49:27.314 [main] EcommerceTesting - Clicked on search button
+[INFO ] 2024-12-17 21:49:34.611 [main] EcommerceTesting - Clicked image
+[INFO ] 2024-12-17 21:49:38.852 [main] EcommerceTesting - size L is entered
+[INFO ] 2024-12-17 21:49:40.979 [main] EcommerceTesting - Quantity 2 is entered
+[INFO ] 2024-12-17 21:49:46.129 [main] EcommerceTesting - Clicked on Add to cart
+[INFO ] 2024-12-17 21:49:52.186 [main] EcommerceTesting - Clicked on proceed to checkout on product page
+[INFO ] 2024-12-17 21:52:53.819 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-17 21:52:59.436 [main] EcommerceTesting - Verify registered user is able to login
+[INFO ] 2024-12-17 21:53:01.438 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 21:53:01.631 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 21:53:01.751 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 21:53:02.817 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 21:53:02.866 [main] EcommerceTesting - Verify Login passed
+[INFO ] 2024-12-17 21:53:04.338 [main] EcommerceTesting - Verify registered user is able to login
+[INFO ] 2024-12-17 21:53:05.176 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 21:53:05.289 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 21:53:05.443 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 21:53:06.312 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 21:53:06.359 [main] EcommerceTesting - Verify Login passed
+[INFO ] 2024-12-17 21:53:08.163 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-17 21:53:19.681 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-17 21:53:19.686 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-17 21:53:20.865 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 21:53:21.098 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 21:53:21.215 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 21:53:22.515 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 21:53:23.236 [main] EcommerceTesting - Clicked on search button
+[INFO ] 2024-12-17 21:53:30.444 [main] EcommerceTesting - Clicked image
+[INFO ] 2024-12-17 21:53:34.751 [main] EcommerceTesting - size L is entered
+[INFO ] 2024-12-17 21:53:36.978 [main] EcommerceTesting - Quantity 2 is entered
+[INFO ] 2024-12-17 21:53:42.165 [main] EcommerceTesting - Clicked on Add to cart
+[INFO ] 2024-12-17 21:53:48.393 [main] EcommerceTesting - Clicked on proceed to checkout on product page
+[INFO ] 2024-12-17 21:53:54.665 [main] EcommerceTesting - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-12-17 21:54:00.845 [main] EcommerceTesting - Clicked on proceed to checkout on order address page
+[INFO ] 2024-12-17 21:54:05.978 [main] EcommerceTesting - Clicked on selectTermsOfServices checkbox on Shipping page
+[INFO ] 2024-12-17 21:54:12.025 [main] EcommerceTesting - Clicked on proceed to checkout on order Shipping page
+[INFO ] 2024-12-17 21:54:17.713 [main] EcommerceTesting - Clicked on pay by cheque order payment page
+[INFO ] 2024-12-17 21:54:29.720 [main] EcommerceTesting - Clicked on confirmed order
+[INFO ] 2024-12-17 21:54:31.073 [main] EcommerceTesting - User has logged out 
+[INFO ] 2024-12-17 21:54:31.104 [main] EcommerceTesting - Page title is as expected
+[INFO ] 2024-12-17 21:54:31.104 [main] EcommerceTesting - 
+***************TestCase Buy Product stopped*****************
+[INFO ] 2024-12-17 21:54:31.109 [main] EcommerceTesting - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-12-17 21:54:31.891 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-17 21:54:32.020 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-17 21:54:32.111 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-17 21:54:32.934 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-17 21:54:38.932 [main] EcommerceTesting - Search Product testcase - Passed
+[INFO ] 2024-12-17 21:54:39.884 [main] EcommerceTesting - ***************TestCase Search Product ends*****************
+[INFO ] 2024-12-17 21:54:40.359 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-18 00:28:13.714 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-18 00:28:15.977 [main] EcommerceTesting - Verify registered user is able to login
+[INFO ] 2024-12-18 00:28:17.452 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-18 00:28:17.619 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-18 00:28:17.742 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-18 00:28:18.829 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-18 00:28:18.866 [main] EcommerceTesting - Verify Login passed
+[INFO ] 2024-12-18 00:28:20.235 [main] EcommerceTesting - Verify registered user is able to login
+[INFO ] 2024-12-18 00:28:20.948 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-18 00:28:21.083 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-18 00:28:21.224 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-18 00:28:22.051 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-18 00:28:22.099 [main] EcommerceTesting - Verify Login passed
+[INFO ] 2024-12-18 00:28:27.569 [main] EcommerceTesting - url closed
+[INFO ] 2024-12-18 00:28:33.120 [main] EcommerceTesting - URL opened
+[INFO ] 2024-12-18 00:28:33.122 [main] EcommerceTesting - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-12-18 00:28:37.703 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-18 00:28:37.864 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-18 00:28:38.005 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-18 00:28:39.143 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-18 00:28:39.914 [main] EcommerceTesting - Clicked on search button
+[INFO ] 2024-12-18 00:28:47.270 [main] EcommerceTesting - Clicked image
+[INFO ] 2024-12-18 00:28:51.718 [main] EcommerceTesting - size L is entered
+[INFO ] 2024-12-18 00:28:53.885 [main] EcommerceTesting - Quantity 2 is entered
+[INFO ] 2024-12-18 00:28:59.028 [main] EcommerceTesting - Clicked on Add to cart
+[INFO ] 2024-12-18 00:29:05.358 [main] EcommerceTesting - Clicked on proceed to checkout on product page
+[INFO ] 2024-12-18 00:29:11.537 [main] EcommerceTesting - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-12-18 00:29:17.162 [main] EcommerceTesting - Clicked on proceed to checkout on order address page
+[INFO ] 2024-12-18 00:29:22.296 [main] EcommerceTesting - Clicked on selectTermsOfServices checkbox on Shipping page
+[INFO ] 2024-12-18 00:29:28.572 [main] EcommerceTesting - Clicked on proceed to checkout on order Shipping page
+[INFO ] 2024-12-18 00:29:34.198 [main] EcommerceTesting - Clicked on pay by cheque order payment page
+[INFO ] 2024-12-18 00:29:45.754 [main] EcommerceTesting - Clicked on confirmed order
+[INFO ] 2024-12-18 00:29:47.529 [main] EcommerceTesting - User has logged out 
+[INFO ] 2024-12-18 00:29:47.546 [main] EcommerceTesting - Page title is as expected
+[INFO ] 2024-12-18 00:29:47.546 [main] EcommerceTesting - 
+***************TestCase Buy Product stopped*****************
+[INFO ] 2024-12-18 00:29:47.548 [main] EcommerceTesting - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-12-18 00:29:48.333 [main] EcommerceTesting - Clicked on Sigin
+[INFO ] 2024-12-18 00:29:48.443 [main] EcommerceTesting - Entered registered email address
+[INFO ] 2024-12-18 00:29:48.536 [main] EcommerceTesting - Entered registered password
+[INFO ] 2024-12-18 00:29:49.383 [main] EcommerceTesting - Clicked on submit button
+[INFO ] 2024-12-18 00:29:55.057 [main] EcommerceTesting - Search Product testcase - Passed
+[INFO ] 2024-12-18 00:29:56.070 [main] EcommerceTesting - ***************TestCase Search Product ends*****************
+[INFO ] 2024-12-18 00:29:56.443 [main] EcommerceTesting - url closed
